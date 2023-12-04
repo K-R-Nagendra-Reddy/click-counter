@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg-container{
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.heading{
+    color: #2d3a35;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+
+}
+.count{
+    color: #c20a72;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.paragraph{
+    color: #f1f5f8;
+    font-size: 25px;
+
+}
+.button{
+    color: #ffffff;
+    background-color: #007bff;
+    height: 10vh;
+    width: 15vw;
+    border-radius: 10px;
+}
